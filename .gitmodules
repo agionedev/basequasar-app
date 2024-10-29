@@ -1,28 +1,28 @@
 
 [submodule "src/modules/qcrud"]
 	path = src/modules/qcrud
-	url = https://github.com/imagina/qcrud.git
+	url = https://github.com/agionedev/qcrud.git
 [submodule "src/modules/qgamification"]
 	path = src/modules/qgamification
-	url = https://github.com/imagina/qgamification.git
+	url = https://github.com/agionedev/qgamification.git
 [submodule "src/modules/qmedia"]
 	path = src/modules/qmedia
 	url = https://github.com/imagina/qmedia.git
 [submodule "src/modules/qnotification"]
 	path = src/modules/qnotification
-	url = https://github.com/imagina/qnotification.git
+	url = https://github.com/agionedev/qnotification.git
 [submodule "src/modules/qsite"]
 	path = src/modules/qsite
-	url = https://github.com/imagina/qsite.git
+	url = https://github.com/agionedev/qsite.git
 [submodule "src/modules/quser"]
 	path = src/modules/quser
-	url = https://github.com/imagina/quser.git
+	url = https://github.com/agionedev/quser.git
 [submodule "src/modules/qchat"]
 	path = src/modules/qchat
-	url = https://github.com/imagina/qchat.git
+	url = https://github.com/agionedev/qchat.git
 [submodule "src/modules/qtranslation"]
 	path = src/modules/qtranslation
-	url = https://github.com/imagina/qtranslation.git
+	url = https://github.com/agionedev/qtranslation.git
 [submodule "src/modules/qcheckin"]
 	path = src/modules/qcheckin
 	url = https://github.com/imagina/qcheckin.git
@@ -37,25 +37,25 @@
 	url = https://github.com/imagina/qsetupagione.git
 [submodule "src/modules/qfly"]
 	path = src/modules/qfly
-	url = https://github.com/imagina/qfly.git
+	url = https://github.com/agionedev/qfly.git
 [submodule "src/modules/qramp"]
 	path = src/modules/qramp
-	url = https://github.com/imagina/qramp.git
+	url = https://github.com/agionedev/qramp.git
 [submodule "src/modules/qoffline"]
 	path = src/modules/qoffline
-	url = https://github.com/imagina/qoffline.git
+	url = https://github.com/agionedev/qoffline.git
 [submodule "src/modules/qblog"]
 	path = src/modules/qblog
-	url = https://github.com/imagina/qblog.git
+	url = https://github.com/agionedev/qblog.git
 [submodule "src/modules/qform"]
 	path = src/modules/qform
-	url = https://github.com/imagina/qform.git
+	url = https://github.com/agionedev/qform.git
 [submodule "src/modules/qmenu"]
 	path = src/modules/qmenu
-	url = https://github.com/imagina/qmenu.git
+	url = https://github.com/agionedev/qmenu.git
 [submodule "src/modules/qpage"]
 	path = src/modules/qpage
-	url = https://github.com/imagina/qpage.git
+	url = https://github.com/agionedev/qpage.git
 [submodule "src/modules/qqreable"]
 	path = src/modules/qqreable
 	url = https://github.com/imagina/qqreable.git
@@ -64,7 +64,7 @@
 	url = https://github.com/imagina/qrequestable.git
 [submodule "src/modules/qreports"]
 	path = src/modules/qreports
-	url = https://github.com/imagina/qreports.git
+	url = https://github.com/agionedev/qreports.git
 [submodule "src/modules/quickbase"]
 	path = src/modules/quickbase
 	url = https://github.com/agionedev/quickbase.git
